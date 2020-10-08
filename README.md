@@ -3,3 +3,5 @@
 #dkmdlmdlasm
 #dsmalmd;aslmdl
 #addded for testing rebase
+learn conflit
+learn git
