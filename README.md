@@ -2,8 +2,9 @@
 # learn-git
 #dkmdlmdlasm
 #dsmalmd;aslmdl
-#addded for testing rebase
+# ddaldmld
 learn conflit
 learn git
 learn rebase
 hey user getting conflicts
+this bigger cob=nflict e
