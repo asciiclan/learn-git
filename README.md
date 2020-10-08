@@ -1,5 +1,5 @@
 ##Commit learn
 # learn-git
-dkmdlmdlasm
-dsmalmd;aslmdl
-addded for testing rebase
+#dkmdlmdlasm
+#dsmalmd;aslmdl
+#addded for testing rebase
